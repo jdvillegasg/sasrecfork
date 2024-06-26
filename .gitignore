@@ -2,3 +2,4 @@
 __pycache__/
 *_default/
 data/
+frontend/node_modules/
